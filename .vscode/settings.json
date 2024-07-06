@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "sudoku.h": "c",
+    "stdio.h": "c",
+    "storage.h": "c",
+    "stdlib.h": "c"
+  },
+  "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools"
+}
